@@ -1,0 +1,12 @@
+/* desktop */
+
+@media (min-width: 1200px) {
+    .m{display: none;}
+    .tab{display: none;}
+    .pc{display: block;}
+
+    /*타자 느려서 보기만함 
+    영상복습 필수, 혼자 만들어보기..
+    영타랑 코딩 영단어 외우기
+    */
+}
